@@ -9,3 +9,4 @@
 8-James_Bond - sets the permission to the file hello as 007
 9-John_Doe -sets the mode of the file
 10-mirror_permissions -  sets the mode of the file hello the same as olleh’s mode.
+11-directories_permissions - adds execute permission to all subdirectories
